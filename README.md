@@ -22,7 +22,7 @@ Add the dependency:
 
 ```groovy
 dependencies {
-	        implementation 'com.github.daniyalsalim94:TextInputLayout:Tag'
+	        implementation 'com.github.daniyalsalim94:TextInputLayout:1.0'
 	}
 ```
 
