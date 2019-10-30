@@ -1,4 +1,4 @@
-**Screen Shot**
+## Screen Shots
 
 1 | 2
 --- | ---
