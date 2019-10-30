@@ -1,7 +1,7 @@
 ## Screen Shots
 
-1 | 2
---- | ---
+1 | 2 | 3
+--- | --- | ---
 ![1](https://github.com/daniyalsalim94/TextInputLayout/raw/master/Screenshot/1.jpg) | ![2](https://github.com/daniyalsalim94/TextInputLayout/raw/master/Screenshot/2.jpg) | ![3](https://github.com/daniyalsalim94/TextInputLayout/raw/master/Screenshot/3.jpg)
 
 
