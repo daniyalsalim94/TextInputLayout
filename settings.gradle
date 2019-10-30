@@ -1,0 +1,2 @@
+include ':app', ':textinputlayout2'
+project(':textinputlayout2').projectDir = new File(settingsDir, '../TextInputLayout/textinputlayout2')
